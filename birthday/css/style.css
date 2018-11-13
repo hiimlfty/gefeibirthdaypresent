@@ -1,0 +1,47 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:15px;
+  line-height:1.5;
+  padding:0;
+  margin:0;
+  background-color:#ccffff;
+}
+
+
+/* Global */
+.container{
+  width:80%;
+  margin:auto;
+  overflow:hidden;
+}
+
+header{
+  background:#ffffff url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2012/10/tumblr_mc1tg5NaI71rf089no1_1280.gif) no-repeat center center;
+  background-size: 1100px 650px;
+  background-position: right;
+  color:#ffffff;
+  padding-top:15px;
+  padding-bottom:15px;
+  min-height:60px;
+  color:black;
+  padding-left: 30px;
+}
+
+#introduction{
+
+}
+
+#text{
+  background-color: #ffffff;
+}
+
+.textbox{
+  width: 80%;
+  text-align: center;
+  padding: 30px;
+  padding-left: 170px;
+}
+
+footer{
+  padding-left: 30px;
+}
